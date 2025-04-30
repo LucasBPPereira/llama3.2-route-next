@@ -1,0 +1,1 @@
+For now, run a `node index.js` in terminal.
